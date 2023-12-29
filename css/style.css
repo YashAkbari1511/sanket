@@ -198,7 +198,7 @@ body{
 .page-header {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/back.jpg) top right no-repeat;
+    /* background: url(../img/back.jpg) top right no-repeat; */
     background-size: cover;
 }
 
